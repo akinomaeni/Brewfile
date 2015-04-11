@@ -37,7 +37,6 @@ cask install soundflower
 cask install sourcetree
 cask install sqlitebrowser
 cask install tunnelblick
-cask install utorrent
 cask install vagrant
 cask install virtualbox
 cask install vlc
@@ -94,14 +93,20 @@ appstore Growl
 appstore iMovie
 appstore iPhoto
 appstore Keynote
-appstore Letterspace
+appstore LINE
+appstore Marked
 appstore Numbers
+appstore OmniFocus
 appstore Pages
+appstore Pocket
 appstore Pushbullet
+appstore Simplenote
 appstore Skitch
 appstore Slack
 appstore SoraAnnai
+appstore SourceTree
 appstore SuperEgo
-appstore Telegram
 appstore Twitter
+appstore Wunderlist
 appstore Xcode
+appstore xScan
